@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paula\\source\\repos\\lectorCamara2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{878ED6AE-FABD-404A-9508-7DD616E486B6}|lectorCamara2\\lectorCamara2.vcxproj|C:\\Users\\Paula\\source\\repos\\lectorCamara2\\lectorCamara2\\lectorCamara.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{878ED6AE-FABD-404A-9508-7DD616E486B6}|lectorCamara2\\lectorCamara2.vcxproj|solutionrelative:lectorCamara2\\lectorCamara.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878ED6AE-FABD-404A-9508-7DD616E486B6}|lectorCamara2\\lectorCamara2.vcxproj|C:\\Users\\Paula\\source\\repos\\lectorCamara\\lectorCamara\\camara.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "camara.csv",
+              "DocumentMoniker": "C:\\Users\\Paula\\source\\repos\\lectorCamara\\lectorCamara\\camara.csv",
+              "RelativeDocumentMoniker": "..\\lectorCamara\\lectorCamara\\camara.csv",
+              "ToolTip": "C:\\Users\\Paula\\source\\repos\\lectorCamara\\lectorCamara\\camara.csv",
+              "RelativeToolTip": "..\\lectorCamara\\lectorCamara\\camara.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-12-10T10:29:45.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lectorCamara.cpp",
+              "DocumentMoniker": "C:\\Users\\Paula\\source\\repos\\lectorCamara2\\lectorCamara2\\lectorCamara.cpp",
+              "RelativeDocumentMoniker": "lectorCamara2\\lectorCamara.cpp",
+              "ToolTip": "C:\\Users\\Paula\\source\\repos\\lectorCamara2\\lectorCamara2\\lectorCamara.cpp",
+              "RelativeToolTip": "lectorCamara2\\lectorCamara.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwIkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T10:24:20.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

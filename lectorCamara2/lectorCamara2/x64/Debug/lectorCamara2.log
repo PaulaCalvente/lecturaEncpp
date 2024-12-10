@@ -1,0 +1,3 @@
+﻿  lectorCamara.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  lectorCamara2.vcxproj -> C:\Users\Paula\source\repos\lectorCamara2\x64\Debug\lectorCamara2.exe
